@@ -1,9 +1,9 @@
 @font-face {
-  font-family:'DragonQuestFCIntact';
-  src: url('./assets/fonts/DragonQuestFCIntact.ttf');
+  font-family:'DragonQuestFC';
+  src: url('./assets/fonts/DragonQuestFC.ttf');
 }
 .famicom-fonts {
-  font-family: 'DragonQuestFCIntact';
+  font-family: 'DragonQuestFC';
   color: white;
 }
 
