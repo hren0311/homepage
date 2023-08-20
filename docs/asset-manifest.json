@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myhomepage/static/css/main.269e4257.css",
-    "main.js": "/myhomepage/static/js/main.59d76f63.js",
-    "static/js/787.553ee8ee.chunk.js": "/myhomepage/static/js/787.553ee8ee.chunk.js",
-    "static/media/DragonQuestFC.ttf": "/myhomepage/static/media/DragonQuestFC.bbd72a8fcf816c09ed28.ttf",
-    "index.html": "/myhomepage/index.html",
-    "main.269e4257.css.map": "/myhomepage/static/css/main.269e4257.css.map",
-    "main.59d76f63.js.map": "/myhomepage/static/js/main.59d76f63.js.map",
-    "787.553ee8ee.chunk.js.map": "/myhomepage/static/js/787.553ee8ee.chunk.js.map"
+    "main.css": "/homepage/static/css/main.36a9f69a.css",
+    "main.js": "/homepage/static/js/main.015d4ca9.js",
+    "static/js/787.553ee8ee.chunk.js": "/homepage/static/js/787.553ee8ee.chunk.js",
+    "static/media/DragonQuestFC.ttf": "/homepage/static/media/DragonQuestFC.bbd72a8fcf816c09ed28.ttf",
+    "index.html": "/homepage/index.html",
+    "main.36a9f69a.css.map": "/homepage/static/css/main.36a9f69a.css.map",
+    "main.015d4ca9.js.map": "/homepage/static/js/main.015d4ca9.js.map",
+    "787.553ee8ee.chunk.js.map": "/homepage/static/js/787.553ee8ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.269e4257.css",
-    "static/js/main.59d76f63.js"
+    "static/css/main.36a9f69a.css",
+    "static/js/main.015d4ca9.js"
   ]
 }

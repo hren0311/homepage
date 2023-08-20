@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <span className={"famicom-fonts"}>こんにちは</span>
+      <span className={"famicom-fonts famicom-font-size"}>こんにちは せかい！</span>
     </div>
   );
 }
